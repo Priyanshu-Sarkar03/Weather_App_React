@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Priyanshu-Sarkar03/Weather_App_React/static/css/main.84f03136.css",
+    "main.js": "/Priyanshu-Sarkar03/Weather_App_React/static/js/main.f06566f0.js",
+    "static/media/sunset.jpg": "/Priyanshu-Sarkar03/Weather_App_React/static/media/sunset.721bff0de1c4eda08569.jpg",
+    "index.html": "/Priyanshu-Sarkar03/Weather_App_React/index.html",
+    "main.84f03136.css.map": "/Priyanshu-Sarkar03/Weather_App_React/static/css/main.84f03136.css.map",
+    "main.f06566f0.js.map": "/Priyanshu-Sarkar03/Weather_App_React/static/js/main.f06566f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84f03136.css",
+    "static/js/main.f06566f0.js"
+  ]
+}
